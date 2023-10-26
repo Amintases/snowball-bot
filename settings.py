@@ -1,3 +1,0 @@
-BOT_TOKEN = ''
-WAITING_TIME = 3600
-
